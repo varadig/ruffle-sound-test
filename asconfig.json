@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "debug": true,
+    "source-path": ["src"],
+    "output": "bin/Main.swf"
+  },
+  "mainClass": "Main"
+}
